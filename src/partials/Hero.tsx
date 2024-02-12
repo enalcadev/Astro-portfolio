@@ -16,11 +16,11 @@ const Hero = () => (
       description={
         <>
           Soy un ingeniero técnico en Informática de Gestión (UPV). Empecé mi
-          andadura en el cambiante mundo de la programación en el año 2012. Me
+          andadura en el cambiante mundo de la programación a principios de 2012. Me
           gusta aprender, enseñar y sobre todo formar parte de un buen equipo
           humano...
           <br></br>
-          En la actualidad, dirijo un equipo en FDS (DXC). Hacemos desarrollos
+          En la actualidad, dirijo un equipo en FDS (DXC). Hacemos desarrollo de aplicaciones web
           para la Generalitat de Cataluña.
         </>
       }
