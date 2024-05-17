@@ -15,6 +15,7 @@ const Hero = () => (
       }
       description={
         <>
+          <br></br>
           Soy ingeniero técnico en Informática de Gestión (UPV). Empecé mi
           andadura en el cambiante mundo de la programación a principios de
           2012. Me gusta aprender, enseñar y sobre todo formar parte de un buen
