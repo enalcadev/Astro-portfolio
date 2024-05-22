@@ -46,6 +46,12 @@ const Hero = () => (
               alt="Linkedin icon"
             />
           </a>
+          <a href="https://drive.google.com/file/d/15MItHyI14vX1kYSjysXY44WLxfSoFMJ_/view">
+            <HeroSocial
+              src="/assets/images/MdiLinkedin.png"
+              alt="CV icon"
+            />
+          </a>
         </>
       }
     />
