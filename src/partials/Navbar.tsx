@@ -38,6 +38,7 @@ const Navbar = () => (
         <NavMenuItem href="https://www.linkedin.com/in/enrique-albert-caballero-844a848a/">
           LinkedInc
         </NavMenuItem>
+        <NavMenuItem href="https://drive.google.com/file/d/15MItHyI14vX1kYSjysXY44WLxfSoFMJ_/view">CV</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
