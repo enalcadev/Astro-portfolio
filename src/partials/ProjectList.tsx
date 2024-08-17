@@ -17,7 +17,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Arkanoid"
-        description="Retro-game llamado Arkanoid. Es un juego original de Taito. Aprendiendo con Midudev."
+        description="Retro-game llamado Arkanoid. Es un juego original de Taito. javascript-100-proyectos de Midudev."
         link="https://enalcadev.github.io/arkanoid/"
         img={{
           src: '/assets/images/arkanoid.png',
