@@ -32,7 +32,7 @@ const ProjectList = () => (
       <Project
         name="DPDash"
         description="Generador de gráficas dado un CSV"
-        link="/"
+        link="https://main.d1yn5yri163pnj.amplifyapp.com/"
         img={{ src: '/assets/images/project-fire.png', alt: 'DPDash' }}
         category={
           <>
