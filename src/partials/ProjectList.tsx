@@ -17,10 +17,10 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Arkanoid"
-        description="Retro-game llamado Arkanoid. Es un juego original de Taito. Aprendiendo con Midudev."
+        description="Retro-game llamado Arkanoid. Es un juego original de Taito. Ejemplo de javascript-100-proyectos de Midudev."
         link="https://enalcadev.github.io/arkanoid/"
         img={{
-          src: '/assets/images/arkanoid.png',
+          src: '/assets/images/arkanoid.webp',
           alt: 'Arkanoid',
         }}
         category={
@@ -31,9 +31,9 @@ const ProjectList = () => (
       />
       <Project
         name="DPDash"
-        description="Generador de gráficas dado un CSV"
-        link="/"
-        img={{ src: '/assets/images/project-fire.png', alt: 'DPDash' }}
+        description="Generador de gráficas dado un CSV. Hace uso de los componentes de Flowbite."
+        link="https://main.d1yn5yri163pnj.amplifyapp.com/"
+        img={{ src: '/assets/images/project-fire.webp', alt: 'DPDash' }}
         category={
           <>
             <Tags color={ColorTags.VIOLET}>Astro.js</Tags>
