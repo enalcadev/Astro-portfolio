@@ -15,22 +15,24 @@ const Hero = () => (
       }
       description={
         <>
-          <br></br>
-          Soy ingeniero técnico en Informática de Gestión (UPV). Empecé mi
-          andadura en el cambiante mundo de la programación a principios de
-          2012. Me gusta aprender, enseñar y sobre todo, formar parte de un buen
-          equipo humano...
-          <br></br>
-          <br></br>
-          En la actualidad, dirijo un equipo en FDS (DXC). Nos encargamos del
-          desarrollo de aplicaciones web para la Generalitat de Cataluña
-          (España).
-          <br></br>
-          <br></br>
-          Me encanta hacer deporte, sobre todo, fútbol y padel. Soy aficionado
-          del Valencia CF y como dicen en mi tierra, "un patidor".
-          <br></br>
-          <br></br>
+          <p>
+            Soy ingeniero técnico en Informática de Gestión (UPV). Empecé mi
+            andadura en el cambiante mundo de la programación a principios de
+            2012. Me gusta aprender, enseñar y sobre todo, formar parte de un
+            buen equipo humano...
+          </p>
+          <br />
+          <p>
+            En la actualidad, dirijo un equipo en FDS (DXC). Nos encargamos del
+            desarrollo de aplicaciones web para la Generalitat de Cataluña.
+            Utilizamos React, Angular, SpringBoot, PostgreSQL y Python.
+          </p>
+          <br />
+          <p>
+            Me encanta hacer deporte, sobre todo, fútbol y padel. Soy aficionado
+            del Valencia CF y como dicen en mi tierra, "un patidor".
+          </p>
+          <br />
         </>
       }
       avatar={
