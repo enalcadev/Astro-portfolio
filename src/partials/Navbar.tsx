@@ -30,7 +30,6 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="/posts/">Posts</NavMenuItem>
         <NavMenuItem href="https://github.com/enalcadev">GitHub</NavMenuItem>
         <NavMenuItem href="https://www.linkedin.com/in/enrique-albert-caballero-844a848a/">
           LinkedInc
