@@ -45,13 +45,13 @@ const Hero = () => (
         <>
           <a href="https://github.com/enalcadev">
             <HeroSocial
-              src="/assets/images/MdiGithubBox.png"
+              src="/assets/images/MdiGithubBox.webp"
               alt="GitHub icon"
             />
           </a>
           <a href="https://www.linkedin.com/in/enrique-albert-caballero-844a848a/">
             <HeroSocial
-              src="/assets/images/MdiLinkedin.png"
+              src="/assets/images/MdiLinkedin.webp"
               alt="Linkedin icon"
             />
           </a>
